@@ -1,0 +1,18 @@
+button {
+  font-size: 30px;
+  padding: 10px 25px;
+}
+
+button:hover {
+  color: white;
+  background-color: black;
+}
+
+th {
+  color: white;
+  background-color: black;
+}
+
+tr:nth-child(odd) {
+  background-color: lightgray;
+}
