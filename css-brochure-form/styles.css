@@ -1,0 +1,34 @@
+body {
+  text-align: center;
+}
+
+h2 {
+  color: rgb(228, 96, 48);
+  font-size: 15px;
+}
+
+label {
+  font-size: 10px;
+  text-align: left;
+  font-weight: bold;
+}
+
+::placeholder {
+  color: rgb(167, 159, 159);
+  font-size: 13px;
+}
+
+input[type=text],
+select {
+  width: 27%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+  margin-top: 2px;
+  margin-bottom: 16px;
+}
+
+select {
+  background-color: rgb(238, 237, 237);
+}
