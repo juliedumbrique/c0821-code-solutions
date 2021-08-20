@@ -27,7 +27,6 @@ p {
 
 .column {
   display: flex;
-  flex-direction: column;
 }
 
 .column-one-third {
@@ -39,5 +38,9 @@ p {
 }
 
 .image {
-  max-width: 100%;
+  width: 100%;
+}
+
+.column-two-third {
+  flex-basis: calc(100% / 3 * 2);
 }
