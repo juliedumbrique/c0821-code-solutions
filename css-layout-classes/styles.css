@@ -25,10 +25,6 @@ p {
   display: flex;
 }
 
-.column {
-  display: flex;
-}
-
 .column-one-third {
   flex-basis: 33%;
 }
