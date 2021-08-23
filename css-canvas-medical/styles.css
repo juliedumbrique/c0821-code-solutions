@@ -1,0 +1,30 @@
+body {
+  background-color: lightgrey;
+}
+
+.container {
+  padding: 100px;
+}
+
+h2,
+h3,
+h6 {
+  font-family: "Tiempos Headline", sans-serif;
+}
+
+.hero-image {
+  background-image: url("images/hero.jpg");
+  background-size: cover;
+  height: 480px;
+  margin-top: 50px;
+}
+
+li {
+  font-family: "Avenir", sans-serif;
+  list-style-type: none;
+}
+
+p,
+h6 {
+  font-family: "Avenir", sans-serif;
+}
